@@ -6,3 +6,4 @@
 - Tema 01: Una breve introducción a la programación. App con el habitual "Hola Mundo"
 - Tema 02:  Ya entramos un poco mas en detalle; vemos tipos de datos, casting, inputs, y ya algunos metodos.
 - Tema 03: Comenzamos con condicionales, bucles y flujos.
+- Tema 04: Estructuras de Almacenamiento, Busquedas y metodos de Ordenación.
