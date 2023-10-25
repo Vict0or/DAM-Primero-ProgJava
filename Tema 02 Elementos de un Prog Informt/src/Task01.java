@@ -5,8 +5,8 @@ public class Task01 {
         c = a;
         a = b;
         b = c;
-        System.out.println("A es igual a: " + a);
-        System.out.println("B es igual a: " + b);
+        System.out.println("A is equal to: " + a);
+        System.out.println("B is equal to: " + b);
 
     }
     public static void main(String[] args) {

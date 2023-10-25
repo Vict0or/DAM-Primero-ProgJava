@@ -7,7 +7,7 @@ public class ExampleCastExpl {
 
     public static void main(String[] args) {
         
-        // Ejemplo de como hacer casting explicito mediante una función
+        // Example of how to do explicit casting throught a function
         convertNum(8.5);
      
     }
