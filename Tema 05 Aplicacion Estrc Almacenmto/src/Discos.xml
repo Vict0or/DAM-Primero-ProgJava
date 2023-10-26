@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<CD xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+ xsi:noNamespaceSchemaLocation="Discos.xsd">
+    <CD>
+        <Titulo>Back in Black</Titulo>
+        <Artista>Victor</Artista>
+        <Origen>Espa¤a</Origen>
+        <Precio>29.95</Precio>
+        <Año>1999</Año>
+    </CD>
+    <CD>
+        <Titulo>Aerosmith</Titulo>
+        <Artista>Bon Jovi</Artista>
+        <Origen>England</Origen>
+        <Precio>35.0</Precio>
+        <Año>2023</Año>
+    </CD>
+</CD>
