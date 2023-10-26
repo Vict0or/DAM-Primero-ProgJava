@@ -7,3 +7,4 @@
 - Tema 02:  Ya entramos un poco mas en detalle; vemos tipos de datos, casting, inputs, y ya algunos metodos.
 - Tema 03: Comenzamos con condicionales, bucles y flujos.
 - Tema 04: Estructuras de Almacenamiento, Busquedas y metodos de Ordenación.
+- Tema 05: Primera aproximacion a conjuntos de Almacenamiento. Trabajo de xml con api DOM
