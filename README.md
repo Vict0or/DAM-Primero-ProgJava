@@ -4,23 +4,64 @@
 ## Todos los ejercicios realizados y Ejemplos de la asignatura - JAVA ♨️
 
 - **Tema 01:** Una breve introducción a la programación. App con el habitual "Hola Mundo"
-- **Tema 02:** 
+- **Tema 02 -> Elementos de una aplicacion.** 
     - Tipos de datos, casting.
     - Inputs.
     - Métodos.
-- **Tema 03:**
+- **Tema 03 -> Estructuras de Control.**
     - Condicionales.
     - Bucles.
     - Flujos de trabajo.
-- **Tema 04:**
+- **Tema 04 -> Estructuras de Almacenamiento.**
     - Estructuras de Almacenamiento.
     - Algoritmos para Busquedas.
     - Métodos de Ordenación.
-- **Tema 05:**
+- **Tema 05 -> Aplicacion Estruc Almacenamiento.**
     - Primera aproximacion a Conjuntos de Almacenamiento. 
     - Trabajo de xml con api DOM
-- **Tema 07:** 
+- **Tema 07 -> Ficheros.** 
     - Establecemos las bases para trabajar con  ficheros. 
     - Flujos necesarios para realizar  operaciones de lectura/escritura. 
     - Directorios -> cómo listarlos, ver qué contienen. 
     - Serializacion de objetos 
+- **Tema 08 -> Introduccion a Orientacion a objetos.**
+    - Introducción a creación de clases y Objetos.
+    - Visualización y recuperacion con GETTERS
+    - Aplicación de metodo personalizado desde clase.
+- **Tema 09 -> Clases, Atributos y Métodos.**
+    - Repasamos concepto de Clases, Atributos y Constructores.
+    - Métodos GETTERS y SETTERS.
+    - Métodos personalizados.
+- **Tema 10 -> Operaciones.**   
+    - Profundizamos en los Constructores; Defecto, Parametros, Copia.
+    - Metodos GET/SET y personalizados.
+- **Tema 11 -> Uso de Objetos.**
+    - Repaso teoria a los Objetos y su creación.
+    - Atributos. Propiedades.
+- **Tema 12 -> Herencia.**
+    - Herencia.
+    - Constructor clase Padre - super()
+    - Sobre escritura metodos.
+- **Tema 13 -> Uso clases Abstractas, interfaces.**
+    - Clases Abstractas.
+    - Interfaces y usos.
+- **Tema 14 -> Excepciones y Depuración.**
+    - Control de Excepciones - Bloques Try/Catch.
+    - Lanzamiento de Excepciones con Throw.
+    - Creacion de excepcion propia heredando de Exception.
+- **Tema 15 -> Interfaces Gráficas I.**
+    - Componentes. Layouts
+    - Uso de ventanas emergentes.
+- **Tema 16 -> Interfaces Gráficas II.**
+    - Ventanas de Diálogo. Mensajes, Errores o Advertencias.
+    - Ventanas selección de ficheros.
+    - Menús y Elementos.
+    - Varias Ventanas y comunicacion.
+- **Tema 17 -> BD Relacionales.**
+    - Creacion de una BS externa con Xamp.
+    - Ejemplos de conexion con la base de datos.
+    - Realizar Select e Insert.
+    - Ejemplo de una app con ventana y gestion de la BD.
+- **Tema 18/19 -> BD Orientadas a Objetos I y II.**
+    - Base de datos Embebidas: QB4 y SODA
+    - Ejemplos de ambas.
